@@ -1,0 +1,56 @@
+
+[2022-10-24 16:03:51] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:03:51] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:03:51] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:04:02] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:05:28] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:05:28] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:05:28] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:05:31] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:07:39] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:07:39] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:07:39] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:07:40] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:08:06] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:08:06] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:08:06] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:08:07] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:11:17] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:11:17] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:11:17] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:11:18] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:17:13] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:17:13] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:17:13] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:17:13] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:17:13] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:17:13] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:17:14] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:17:16] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:17:17] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:17:17] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:17:17] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:17:18] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:27:57] [ INFO ] [Base:22] Starting methodloginTest
+[2022-10-24 16:27:57] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:27:58] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:27:58] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:28:20] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:28:20] [ INFO ] [Base:30] Test: loginTest passed
+[2022-10-24 16:32:49] [ INFO ] [Base:22] Starting methodloginTest
+[2022-10-24 16:32:49] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:32:49] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:32:49] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:33:01] [ INFO ] [Base:22] Starting methodloginTest
+[2022-10-24 16:33:01] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:33:01] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:33:01] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:33:07] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:33:07] [ INFO ] [Base:30] Test: loginTest passed
+[2022-10-24 16:33:20] [ INFO ] [Base:22] Starting methodloginTest
+[2022-10-24 16:33:20] [ INFO ] [eBanking:14] URL opened
+[2022-10-24 16:33:20] [ INFO ] [eBanking:18] Entered username
+[2022-10-24 16:33:20] [ INFO ] [eBanking:21] Entered password
+[2022-10-24 16:33:58] [ INFO ] [eBanking:24] Login button clicked
+[2022-10-24 16:33:58] [ INFO ] [Base:30] Test: loginTest passed
+[2022-10-24 16:34:26] [ INFO ] [eBanking:24] Login button clicked
