@@ -1,5 +1,4 @@
 /target/
-*.properties
-/Screenshots/
-/reports/
-/logs/
+Screenshots/
+reports/
+logs/
