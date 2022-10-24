@@ -1,5 +1,5 @@
 /target/
-log4j.properties
-/Screenshots/
-/reports/
-/logs/
+*.properties
+Screenshots/
+reports/
+logs/
